@@ -37,5 +37,5 @@ npm run dev
 
 ## Integrantes
 
-* Seu Nome
-* Nome da Colega
+* Mattheus Patricio Matos - 2314291039
+* Mariana Rinaldi de Souza - 2524290016
